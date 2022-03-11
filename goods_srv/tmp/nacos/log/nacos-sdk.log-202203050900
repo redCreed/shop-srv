@@ -1,0 +1,3 @@
+2022-03-05T09:58:31.792+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:goods-srv.jsondev63ec9b6d1f4e3b7ab4289e9d2ea17ddc4f18130f-45ce-4479-ad83-538f0e98b96a tenant:4f18130f-45ce-4479-ad83-538f0e98b96a] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2022-03-05T09:58:31.799+0800	[34mINFO[0m	[client.ListenConfig] no change

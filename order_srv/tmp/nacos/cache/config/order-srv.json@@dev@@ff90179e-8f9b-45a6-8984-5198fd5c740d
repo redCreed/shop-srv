@@ -1,0 +1,27 @@
+{
+  "name":"order-srv",
+  "host": "192.168.18.100",
+  "tags": ["order", "srv"],
+  "mysql":{
+    "host":"192.168.18.100",
+    "port":3306,
+    "db":"mxshop_order_srv",
+    "user":"root",
+    "password":"123"
+  },
+  "consul":{
+    "host":"192.168.18.111",
+    "port":8500
+  },
+  "jaeger":{
+    "host":"192.168.18.111",
+    "port":6831,
+    "name":"order-srv"
+  },
+  "goods_srv":{
+    "name":"goods_srv"
+  },
+    "inventory_srv":{
+    "name":"inventory_srv"
+  }
+}

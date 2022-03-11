@@ -1,0 +1,69 @@
+2021-11-20T16:52:44.296+0800	[31mERROR[0m	[cache.ReadConfigFromFile] error: failed to read config cache file:tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4,err:open tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4: The system cannot find the file specified. 
+2021-11-20T16:52:44.305+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-11-20T16:52:44.309+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:52:44.320+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:53:13.825+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:53:13.835+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:53:43.341+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:53:43.351+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:54:12.856+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:54:12.866+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:54:42.371+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:54:42.384+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:55:11.888+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:55:11.903+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:55:30.452+0800	[31mERROR[0m	[cache.ReadConfigFromFile] error: failed to read config cache file:tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4,err:open tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4: The system cannot find the file specified. 
+2021-11-20T16:55:30.459+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-11-20T16:55:30.464+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:55:30.475+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:55:59.980+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:55:59.992+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:56:27.368+0800	[31mERROR[0m	[cache.ReadConfigFromFile] error: failed to read config cache file:tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4,err:open tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4: The system cannot find the file specified. 
+2021-11-20T16:56:27.374+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-11-20T16:56:27.377+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:56:27.389+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:56:37.844+0800	[31mERROR[0m	[cache.ReadConfigFromFile] error: failed to read config cache file:tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4,err:open tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4: The system cannot find the file specified. 
+2021-11-20T16:56:37.853+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-11-20T16:56:37.858+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:56:37.868+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:56:54.681+0800	[31mERROR[0m	[cache.ReadConfigFromFile] error: failed to read config cache file:tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4,err:open tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4: The system cannot find the file specified. 
+2021-11-20T16:56:54.688+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-11-20T16:56:54.692+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:56:54.704+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:57:18.266+0800	[31mERROR[0m	[cache.ReadConfigFromFile] error: failed to read config cache file:tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4,err:open tmp/nacos/cache\config\dataId@@group@@5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4: The system cannot find the file specified. 
+2021-11-20T16:57:18.273+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-11-20T16:57:18.278+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:57:18.290+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:57:47.793+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:57:47.808+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:58:17.312+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:58:17.324+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:58:46.828+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:58:46.841+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:59:16.345+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:59:16.355+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-11-20T16:59:45.858+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-11-20T16:59:45.869+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:dataIdgroup5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4 tenant:5bb192c5-5b9a-4157-b0d9-00cea0d3c6a4] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+

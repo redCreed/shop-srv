@@ -1,0 +1,22 @@
+2022-03-06T15:55:56.205+0800	[31mERROR[0m	api</v1/cs/configs/listener>,method:<POST>, params:<{"Listening-Configs":"goods-srv.json\u0002dev\u0002379cdd5ebf63afea932261878b45da63\u00024f18130f-45ce-4479-ad83-538f0e98b96a\u0001","tenant":"4f18130f-45ce-4479-ad83-538f0e98b96a"}>, call domain error:<Post "http://192.168.18.111:8848/nacos/v1/cs/configs/listener": context deadline exceeded (Client.Timeout exceeded while awaiting headers)> , result:<>
+2022-03-06T15:56:35.654+0800	[34mINFO[0m	[client.ListenConfig] no change
+2022-03-06T15:56:35.665+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:goods-srv.jsondev379cdd5ebf63afea932261878b45da634f18130f-45ce-4479-ad83-538f0e98b96a tenant:4f18130f-45ce-4479-ad83-538f0e98b96a] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2022-03-06T15:57:05.162+0800	[34mINFO[0m	[client.ListenConfig] no change
+2022-03-06T15:57:05.172+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:goods-srv.jsondev379cdd5ebf63afea932261878b45da634f18130f-45ce-4479-ad83-538f0e98b96a tenant:4f18130f-45ce-4479-ad83-538f0e98b96a] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2022-03-06T15:57:34.675+0800	[34mINFO[0m	[client.ListenConfig] no change
+2022-03-06T15:57:34.685+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:goods-srv.jsondev379cdd5ebf63afea932261878b45da634f18130f-45ce-4479-ad83-538f0e98b96a tenant:4f18130f-45ce-4479-ad83-538f0e98b96a] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2022-03-06T15:58:04.215+0800	[34mINFO[0m	[client.ListenConfig] no change
+2022-03-06T15:58:04.225+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:goods-srv.jsondev379cdd5ebf63afea932261878b45da634f18130f-45ce-4479-ad83-538f0e98b96a tenant:4f18130f-45ce-4479-ad83-538f0e98b96a] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2022-03-06T15:58:33.749+0800	[34mINFO[0m	[client.ListenConfig] no change
+2022-03-06T15:58:33.760+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:goods-srv.jsondev379cdd5ebf63afea932261878b45da634f18130f-45ce-4479-ad83-538f0e98b96a tenant:4f18130f-45ce-4479-ad83-538f0e98b96a] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2022-03-06T15:59:03.287+0800	[34mINFO[0m	[client.ListenConfig] no change
+2022-03-06T15:59:03.298+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:goods-srv.jsondev379cdd5ebf63afea932261878b45da634f18130f-45ce-4479-ad83-538f0e98b96a tenant:4f18130f-45ce-4479-ad83-538f0e98b96a] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2022-03-06T15:59:32.812+0800	[34mINFO[0m	[client.ListenConfig] no change
+2022-03-06T15:59:32.822+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:goods-srv.jsondev379cdd5ebf63afea932261878b45da634f18130f-45ce-4479-ad83-538f0e98b96a tenant:4f18130f-45ce-4479-ad83-538f0e98b96a] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
